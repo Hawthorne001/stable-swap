@@ -39,7 +39,7 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "@saberhq/stableswap-sdk": "^1.12.36",
+    "@saberhq/stableswap-sdk": "^1.15.0",
     "@saberhq/token-utils": "^1.12.36",
     "@solana/web3.js": "^1.33.0",
     "@types/bn.js": "^5.1.0",
